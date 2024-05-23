@@ -4,7 +4,7 @@ import io.cucumber.java.en.*;
 
 public class LoginSteps {
 	
-	@Given("user is on login page")
+	@Given("user is on login")
 	public void user_is_on_login_page() {
 	    
 	}
@@ -19,10 +19,7 @@ public class LoginSteps {
 	    
 	}
 
-	@Then("user is navigated to home page")
-	public void user_is_navigated_to_home_page() {
-	    
-	}
+	
 	
 	
 	
