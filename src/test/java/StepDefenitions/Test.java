@@ -7,8 +7,6 @@ public class Test {
 	}
 	
 	
-	public static void demo2() {
-		System.out.println("Just Test");
-	}
+	
 
 }
