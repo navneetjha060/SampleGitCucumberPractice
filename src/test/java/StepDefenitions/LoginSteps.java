@@ -20,7 +20,10 @@ public class LoginSteps {
 	}
 
 	
-	
+	@Then("Verify Status")
+	public void verify_Status() {
+	    
+	}
 	
 	
 	
