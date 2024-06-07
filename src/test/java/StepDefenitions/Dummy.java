@@ -8,8 +8,8 @@ public class Dummy {
 		System.out.println("Dummy5");
 		System.out.println("Dummy6");
 
-		int a=10;
-		int b=20;
+		int x=10;
+		int y=20;
 
 	}
 
