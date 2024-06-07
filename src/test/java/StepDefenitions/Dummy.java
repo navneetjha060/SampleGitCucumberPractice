@@ -11,6 +11,9 @@ public class Dummy {
 		int x=10;
 		int y=20;
 
+		int c=10;
+		int d=20;
+
 	}
 
 }
